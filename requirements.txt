@@ -1,0 +1,8 @@
+python-dotenv
+transformers @ git+https://github.com/huggingface/transformers
+torch
+accelerate
+mistral-common>=1.8.6
+hf_xet
+scikit-learn
+numpy

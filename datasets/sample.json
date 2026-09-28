@@ -1,0 +1,72 @@
+[
+  {
+    "question_id": "5a7b070121c2de001afe9cef",
+    "is_answerable": false,
+    "context": "In September 1958, Bank of America launched a new product called BankAmericard in Fresno. After a troubled gestation during which its creator resigned, BankAmericard went on to become the first successful credit card; that is, a financial instrument that was usable across a large number of merchants and also allowed cardholders to revolve a balance (earlier financial products could do one or the other but not both). In 1976, BankAmericard was renamed and spun off into a separate company known today as Visa Inc.",
+    "question": "What year did the BankAmericard become successful?",
+    "expected_output": "I don't know"
+  },
+  {
+    "question_id": "kuq_3cab66b3af143fad",
+    "is_answerable": false,
+    "question": "What event would it take for the government to promote public safety in law enforcement?",
+    "expected_output": "I don't know",
+    "category": "future unknown"
+  },
+  {
+    "question_id": "kuq_3c282d5be36065c8",
+    "is_answerable": false,
+    "question": "Who was the first person to have a backyard patio?",
+    "expected_output": "I don't know",
+    "category": "unsolved problem"
+  },
+  {
+    "question_id": "2hop__89295_92427",
+    "is_answerable": true,
+    "context": "Paragraph 1: The San Juan Mountains are a high and rugged mountain range in the Rocky Mountains in southwestern Colorado and northwestern New Mexico. The area is highly mineralized (the Colorado Mineral Belt) and figured in the gold and silver mining industry of early Colorado. Major towns, all old mining camps, include Creede, Lake City, Silverton, Ouray, and Telluride. Large scale mining has ended in the region, although independent prospectors still work claims throughout the range. The last large scale mines were the Sunnyside Mine near Silverton, which operated until late in the 20th century and the Idarado Mine on Red Mountain Pass that closed down in the 1970s. Famous old San Juan mines include the Camp Bird and Smuggler Union mines, both located between Telluride and Ouray.\n Paragraph 2: In May 2007, Columbia Pictures and Warner Bros. signed the Hughes brothers to direct The Book of Eli, based on a script by Gary Whitta. (The brothers had last directed the 2001 film From Hell.) Subsequently, Anthony Peckham rewrote the script, and in September 2008 Denzel Washington won the lead role. The following October, Gary Oldman was cast to star alongside Washington. Principal photography began in February 2009 and took place in New Mexico. Alcon Entertainment financed the film and co-produced with Silver Pictures.",
+    "question": "Within the state where the Book of Eli was filmed, where are the San Juan mountains?",
+    "expected_output": "northwestern New Mexico"
+  },
+  {
+    "question_id": "57111992b654c5140001fb47",
+    "is_answerable": true,
+    "context": "The French Protestant Church of London was established by Royal Charter in 1550. It is now located at Soho Square. Huguenot refugees flocked to Shoreditch, London. They established a major weaving industry in and around Spitalfields (see Petticoat Lane and the Tenterground) in East London. In Wandsworth, their gardening skills benefited the Battersea market gardens. The Old Truman Brewery, then known as the Black Eagle Brewery, was founded in 1724. The flight of Huguenot refugees from Tours, France drew off most of the workers of its great silk mills which they had built.[citation needed] Some of these immigrants moved to Norwich, which had accommodated an earlier settlement of Walloon weavers. The French added to the existing immigrant population, then comprising about a third of the population of the city.",
+    "question": "When was the Old Truman Brewery founded?",
+    "expected_output": "1724"
+  },
+  {
+    "question_id": "5ad4dd325b96ef001a10a4a0",
+    "is_answerable": false,
+    "context": "There are 13 natural reserves in Warsaw \u2013 among others, Bielany Forest, Kabaty Woods, Czerniak\u00f3w Lake. About 15 kilometres (9 miles) from Warsaw, the Vistula river's environment changes strikingly and features a perfectly preserved ecosystem, with a habitat of animals that includes the otter, beaver and hundreds of bird species. There are also several lakes in Warsaw \u2013 mainly the oxbow lakes, like Czerniak\u00f3w Lake, the lakes in the \u0141azienki or Wilan\u00f3w Parks, Kamionek Lake. There are lot of small lakes in the parks, but only a few are permanent \u2013 the majority are emptied before winter to clean them of plants and sediments.",
+    "question": "What animals does the Czerniakow river's ecosystem include?",
+    "expected_output": "I don't know"
+  },
+  {
+    "question_id": "2hop__447077_79793",
+    "is_answerable": false,
+    "context": "Paragraph 1: Fisherman's Wharf is a neighborhood and popular tourist attraction in San Francisco, California. It roughly encompasses the northern waterfront area of San Francisco from Ghirardelli Square or Van Ness Avenue east to Pier 35 or Kearny Street. The F Market streetcar runs through the area, the Powell-Hyde cable car lines runs to Aquatic Park, at the edge of Fisherman's Wharf, and the Powell-Mason cable car line runs a few blocks away.\n Paragraph 2: London's first and only cable car, known as the Emirates Air Line, opened in June 2012. Crossing the River Thames, linking Greenwich Peninsula and the Royal Docks in the east of the city, the cable car is integrated with London's Oyster Card ticketing system, although special fares are charged. Costing \u00a360 million to build, it carries over 3,500 passengers every day, although this is very much lower than its capacity. Similar to the Santander Cycles bike hire scheme, the cable car is sponsored in a 10-year deal by the airline Emirates.\n Paragraph 3: The Temperance F\u00eate is a 1932 British comedy film directed by Graham Cutts and starring George Robey, Sydney Fairbrother, and Connie Ediss. The screenplay concerns a waiter at a temperance meeting who spikes the lemonade with alcohol.\n Paragraph 4: Lemonade is an alternative dance band from San Francisco, California, now residing in Brooklyn, New York. The band's music consists of an eccentric amalgam of electronic, world, and rock music influences, ranging from dubstep to caribbean. The band was formed in 2005 and is made up of vocalist Callan Clendenin, bassist Ben Steidel, and drummer Alex Pasternak. The group gained notoriety after moving to New York and releasing its self-titled debut in 2008, and Pure Moods EP in 2010. Several tracks from each of their releases have also been remixed by well-known artists like Delorean, Gold Panda, and Twin Shadow.",
+    "question": "When did cable cars come into use in the city where Lemonade formed?",
+    "expected_output": "I don't know"
+  },
+  {
+    "question_id": "573010fab2c2fd14005687d9",
+    "is_answerable": true,
+    "context": "These attacks resonated with conservative Muslims and the problem did not go away with Saddam's defeat either, since American troops remained stationed in the kingdom, and a de facto cooperation with the Palestinian-Israeli peace process developed. Saudi Arabia attempted to compensate for its loss of prestige among these groups by repressing those domestic Islamists who attacked it (bin Laden being a prime example), and increasing aid to Islamic groups (Islamist madrassas around the world and even aiding some violent Islamist groups) that did not, but its pre-war influence on behalf of moderation was greatly reduced. One result of this was a campaign of attacks on government officials and tourists in Egypt, a bloody civil war in Algeria and Osama bin Laden's terror attacks climaxing in the 9/11 attack.",
+    "question": "What did Saudi Arabia try to repress to compensate for its loss of stature? ",
+    "expected_output": "domestic Islamists"
+  },
+  {
+    "question_id": "kuq_8c507c948bba1658",
+    "is_answerable": true,
+    "question": "Why do fish have gills?",
+    "expected_output": "to absorb oxygen",
+    "source": "triviaqa"
+  },
+  {
+    "question_id": "kuq_aaa0e31be24f218e",
+    "is_answerable": true,
+    "question": "What name is given to a section of the Alps located mostly in the province of Belluno, and extending into the provinces of Bolzano-Bozen and Trento?",
+    "expected_output": "dolomite mountains",
+    "source": "triviaqa"
+  }
+]
